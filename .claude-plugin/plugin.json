@@ -1,0 +1,8 @@
+{
+  "name": "driftwiki",
+  "description": "Generate wiki docs AND detect documentation drift — fork of deepwiki-skill + drift detection layer",
+  "version": "0.1.0",
+  "commands": ["./commands/gen.md", "./commands/check.md"],
+  "skills": "./skills/",
+  "repository": "https://github.com/dpviivqb/driftwiki"
+}
