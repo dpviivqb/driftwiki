@@ -1,7 +1,7 @@
 The MIT License (MIT)
 
 Copyright (c) 2026 @natsu1211 (deepwiki-skill upstream)
-Copyright (c) 2026 drame (driftwiki — drift detection additions)
+Copyright (c) 2026 @dpviivqb (driftwiki — drift detection additions)
 
 driftwiki is forked from deepwiki-skill by @natsu1211 (https://github.com/natsu1211/deepwiki-skill).
 The Phase 7 drift-check and scripts/drift_check.py are additions by drame.
